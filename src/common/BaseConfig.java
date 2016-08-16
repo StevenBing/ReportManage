@@ -41,7 +41,6 @@ public class BaseConfig extends JFinalConfig {
         /********在此添加数据库 表-Model 映射*********/
          //arp.addMapping("user", User.class);
 
-
         //添加到插件列表中
         me.add(c3p0Plugin);
         me.add(arp);
